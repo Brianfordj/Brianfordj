@@ -1,0 +1,4 @@
+- 👋 Hi, I’m Mohammad Ali
+- 👀 I’m interested in web development
+- 🌱 I’m currently learning Full stack development skills
+- 📫 How to reach me @jimgraphy telegram
